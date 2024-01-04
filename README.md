@@ -1,1 +1,1 @@
-# static
+# static web page
